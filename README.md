@@ -16,8 +16,6 @@ Feel free to contribute by submitting a pull request.
 ##### Feedback:
 I welcome any feedback or suggestions for improving this repository.
 
-Happy coding! 🚀
-
 ##### Credits:
 This project is created by JakeRMiller. 
 ##### License:
